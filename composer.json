@@ -1,6 +1,6 @@
 {
-    "name": "jason-guru/laravel-make-repository",
-    "description": "A simple package to create a make:repository command for Laravel 5+",
+    "name": "fraq/laravel-make-repository",
+    "description": "A simple package to create a make:repository command for Laravel 5+ and Composer 2+",
     "type": "library",
     "require": {
         "php": ">=5.4.0"
